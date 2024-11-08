@@ -27,7 +27,7 @@ Backend (Node.js, Express) - To handle data and expand functionality.
 Database (e.g., MongoDB or MySQL) - For secure data storage and retrieval.
 Getting Started
 Clone the Repository
-Use git clone https://github.com/username/dreamfly-online-journal.git to clone the project locally.
+Use git clone https://github.com/shaanya31/CIA-website.git to clone the project locally.
 
 Navigate to the Project Folder
 Use cd dreamfly-online-journal to enter the project directory.
@@ -54,7 +54,7 @@ This project is licensed under the MIT License. See the LICENSE file for details
 Contact
 For questions or suggestions:
 
-Email: your-email@example.com
-GitHub: username
+Email: shanya.srivastava31.com
+GitHub: shaanya31
 Enjoy creating with Dreamfly Online Journal!
 
